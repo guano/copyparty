@@ -87,6 +87,8 @@ the table headers in the matrixes below are the different softwares, with a quic
 [a]: https://github.com/9001/copyparty "copyparty"
 
 the softwares,
+
+* `[a]` = [a]("copyparty) 
 * `a` = [copyparty](https://github.com/9001/copyparty)
 * `b` = [hfs2](https://github.com/rejetto/hfs2/) 🔥
 * `c` = [hfs3](https://rejetto.com/hfs/)
