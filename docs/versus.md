@@ -84,9 +84,10 @@ currently up to date with [awesome-selfhosted](https://github.com/awesome-selfho
 
 the table headers in the matrixes below are the different softwares, with a quick review of each software in the next section
 
+[a]: https://github.com/9001/copyparty "copyparty"
+
 the softwares,
 * `a` = [copyparty](https://github.com/9001/copyparty)
-[a]: https://github.com/9001/copyparty "copyparty"
 * `b` = [hfs2](https://github.com/rejetto/hfs2/) 🔥
 * `c` = [hfs3](https://rejetto.com/hfs/)
 * `d` = [nextcloud](https://github.com/nextcloud/server)
