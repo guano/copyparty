@@ -85,6 +85,7 @@ currently up to date with [awesome-selfhosted](https://github.com/awesome-selfho
 the table headers in the matrixes below are the different softwares, with a quick review of each software in the next section
 
 the softwares,
+
 [a]: https://github.com/9001/copyparty "copyparty"
 [b]: https://github.com/rejetto/hfs2/ "hfs2"
 [c]: https://rejetto.com/hfs/ "hfs3"
@@ -98,6 +99,7 @@ the softwares,
 [k]: https://github.com/filegator/filegator "filegator"
 [l]: https://github.com/drakkan/sftpgo "sftpgo"
 [m]: https://github.com/tobychui/arozos "arozos"
+
 * `a` = [copyparty][a]
 * `b` = [hfs2][b] 🔥
 * `c` = [hfs3][c]
