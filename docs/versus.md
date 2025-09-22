@@ -468,6 +468,19 @@ symbol legend,
 
 
 # reviews
+[a]: #copyparty
+[b]: #hfs2
+[c]: #hfs3
+[d]: #nextcloud
+[e]: #seafile
+[f]: #rclone
+[g]: #dufs
+[h]: #chibisafe
+[i]: #kodbox
+[j]: #filebrowser
+[k]: #filegator
+[l]: #sftpgo
+[m]: #arozos
 
 * ✅ are advantages over copyparty
   * 💾 are what copyparty offers as an alternative
