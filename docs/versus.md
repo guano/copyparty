@@ -171,7 +171,6 @@ symbol legend,
 
 *the thing that copyparty is actually kinda good at*
 
-
 | feature / software      |[a]|[b]|[c]|[d]|[e]|[f]|[g]|[h]|[i]|[j]|[k]|[l]|[m]|
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | download folder as zip  | █ | █ | █ | █ | ╱ |   | █ |   | █ | █ | ╱ | █ | ╱ |
@@ -267,7 +266,6 @@ symbol legend,
 
 ## server configuration
 
-
 | feature / software      |[a]|[b]|[c]|[d]|[e]|[f]|[g]|[h]|[i]|[j]|[k]|[l]|[m]|
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | config from cmd args    | █ |   | █ |   |   | █ | █ |   |   | █ |   | ╱ | ╱ |
@@ -356,7 +354,6 @@ symbol legend,
 
 ## client features
 
-
 | feature / software      |[a]|[b]|[c]|[d]|[e]|[f]|[g]|[h]|[i]|[j]|[k]|[l]|[m]|
 | ----------------------  | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | single-page app         | █ |   | █ | █ | █ |   |   | █ | █ | █ | █ |   | █ |
@@ -416,7 +413,6 @@ symbol legend,
 
 ## integration
 
-
 | feature / software      |[a]|[b]|[c]|[d]|[e]|[f]|[g]|[h]|[i]|[j]|[k]|[l]|[m]|
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | OS alert on upload      | ╱ |   |   |   |   |   |   |   |   | ╱ |   | ╱ |   |
@@ -466,6 +462,7 @@ symbol legend,
 
 
 # reviews
+
 * ✅ are advantages over copyparty
   * 💾 are what copyparty offers as an alternative
 * 🔵 are similarities
