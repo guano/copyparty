@@ -86,19 +86,33 @@ the table headers in the matrixes below are the different softwares, with a quic
 
 the softwares,
 
-* `a` = [copyparty](https://github.com/9001/copyparty)
-* `b` = [hfs2](https://github.com/rejetto/hfs2/) 🔥
-* `c` = [hfs3](https://rejetto.com/hfs/)
-* `d` = [nextcloud](https://github.com/nextcloud/server)
-* `e` = [seafile](https://github.com/haiwen/seafile)
-* `f` = [rclone](https://github.com/rclone/rclone), specifically `rclone serve webdav .`
-* `g` = [dufs](https://github.com/sigoden/dufs)
-* `h` = [chibisafe](https://github.com/chibisafe/chibisafe)
-* `i` = [kodbox](https://github.com/kalcaddle/kodbox)
-* `j` = [filebrowser](https://github.com/filebrowser/filebrowser)
-* `k` = [filegator](https://github.com/filegator/filegator)
-* `l` = [sftpgo](https://github.com/drakkan/sftpgo)
-* `m` = [arozos](https://github.com/tobychui/arozos)
+[a]: https://github.com/9001/copyparty "copyparty"
+[b]: https://github.com/rejetto/hfs2/ "hfs2"
+[c]: https://rejetto.com/hfs/ "hfs3"
+[d]: https://github.com/nextcloud/server "nextcloud"
+[e]: https://github.com/haiwen/seafile "seafile"
+[f]: https://github.com/rclone/rclone "rclone"
+[g]: https://github.com/sigoden/dufs "dufs"
+[h]: https://github.com/chibisafe/chibisafe "chibisafe"
+[i]: https://github.com/kalcaddle/kodbox "kodbox"
+[j]: https://github.com/filebrowser/filebrowser "filebrowser"
+[k]: https://github.com/filegator/filegator "filegator"
+[l]: https://github.com/drakkan/sftpgo "sftpgo"
+[m]: https://github.com/tobychui/arozos "arozos"
+
+* `a` = [copyparty][a]
+* `b` = [hfs2][b] 🔥
+* `c` = [hfs3][c]
+* `d` = [nextcloud][d]
+* `e` = [seafile][e]
+* `f` = [rclone][f], specifically `rclone serve webdav .`
+* `g` = [dufs][g]
+* `h` = [chibisafe][h]
+* `i` = [kodbox][i]
+* `j` = [filebrowser][j]
+* `k` = [filegator][k]
+* `l` = [sftpgo][l]
+* `m` = [arozos][m]
 
 some softwares not in the matrixes,
 * [updog](#updog)
@@ -120,7 +134,7 @@ symbol legend,
 
 ## general
 
-| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
+| feature / software      |[a]|[b]|[c]|[d]|[e]|[f]|[g]|[h]|[i]|[j]|[k]|[l]|[m]|
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | intuitive UX            |   | ╱ | █ | █ | █ |   | █ | █ | █ | █ | █ | █ | █ |
 | config GUI              |   | █ | █ | █ | █ |   |   | █ | █ | █ |   | █ | █ |
@@ -454,20 +468,6 @@ symbol legend,
 
 
 # reviews
-[a]: #copyparty "copyparty"
-[b]: #hfs2 "hfs2"
-[c]: #hfs3 "hfs3"
-[d]: #nextcloud "nextcloud"
-[e]: #seafile "seafile"
-[f]: #rclone "rclone"
-[g]: #dufs "dufs"
-[h]: #chibisafe "chibisafe"
-[i]: #kodbox "kodbox"
-[j]: #filebrowser "filebrowser"
-[k]: #filegator "filegator"
-[l]: #sftpgo "sftpgo"
-[m]: #arozos "arozos"
-
 * ✅ are advantages over copyparty
   * 💾 are what copyparty offers as an alternative
 * 🔵 are similarities
