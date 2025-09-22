@@ -87,7 +87,6 @@ the table headers in the matrixes below are the different softwares, with a quic
 the softwares,
 * `a` = [copyparty](https://github.com/9001/copyparty)
 [a]: https://github.com/9001/copyparty "copyparty"
-* 
 * `b` = [hfs2](https://github.com/rejetto/hfs2/) 🔥
 * `c` = [hfs3](https://rejetto.com/hfs/)
 * `d` = [nextcloud](https://github.com/nextcloud/server)
