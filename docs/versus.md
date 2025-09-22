@@ -119,7 +119,7 @@ symbol legend,
 
 ## general
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+| feature / software      | [a](## "Copyparty") | b | c | d | e | f | g | h | i | j | k | l | m |
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | intuitive UX            |   | ╱ | █ | █ | █ |   | █ | █ | █ | █ | █ | █ | █ |
 | config GUI              |   | █ | █ | █ | █ |   |   | █ | █ | █ |   | █ | █ |
