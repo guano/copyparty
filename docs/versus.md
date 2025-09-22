@@ -171,7 +171,8 @@ symbol legend,
 
 *the thing that copyparty is actually kinda good at*
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+
+| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | download folder as zip  | █ | █ | █ | █ | ╱ |   | █ |   | █ | █ | ╱ | █ | ╱ |
 | download folder as tar  | █ |   |   |   |   |   |   |   |   |   |   |   |   |
@@ -235,7 +236,8 @@ symbol legend,
 
 ## protocols and client support
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+
+| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | serve https             | █ |   | █ | █ | █ | █ | █ | █ | █ | █ | █ | █ | █ |
 | serve webdav            | █ |   |   | █ | █ | █ | █ |   | █ |   |   | █ | █ |
@@ -266,7 +268,8 @@ symbol legend,
 
 ## server configuration
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+
+| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | config from cmd args    | █ |   | █ |   |   | █ | █ |   |   | █ |   | ╱ | ╱ |
 | config files            | █ | █ | █ | ╱ | ╱ | █ |   | █ |   | █ | • | ╱ | ╱ |
@@ -287,7 +290,8 @@ symbol legend,
 
 ## server capabilities
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+
+| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | accounts                | █ | █ | █ | █ | █ | █ | █ | █ | █ | █ | █ | █ | █ |
 | per-account chroot      |   |   |   |   |   |   |   |   |   |   |   | █ |   |
@@ -354,7 +358,8 @@ symbol legend,
 
 ## client features
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+
+| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
 | ----------------------  | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | single-page app         | █ |   | █ | █ | █ |   |   | █ | █ | █ | █ |   | █ |
 | themes                  | █ | █ | █ | █ |   |   |   |   | █ |   |   |   |   |
@@ -413,7 +418,8 @@ symbol legend,
 
 ## integration
 
-| feature / software      | a | b | c | d | e | f | g | h | i | j | k | l | m |
+
+| feature / software      | [a] | [b] | [c] | [d] | [e] | [f] | [g] | [h] | [i] | [j] | [k] | [l] | [m] |
 | ----------------------- | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | OS alert on upload      | ╱ |   |   |   |   |   |   |   |   | ╱ |   | ╱ |   |
 | discord                 | ╱ |   |   |   |   |   |   |   |   | ╱ |   | ╱ |   |
